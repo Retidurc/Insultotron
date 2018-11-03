@@ -16,7 +16,7 @@ echo $array[mt_rand(0,count($array)-1)];
 function cible()
 {
  $array = array(
-	"un vieu",
+	"un vieux",
 	"un écolier",
 	"un randonneur",
 	"une automobile",
